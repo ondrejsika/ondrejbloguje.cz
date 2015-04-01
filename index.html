@@ -5,6 +5,6 @@ title: uBlog
 
 <ul>
 {% for post in site.posts %}
-<li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string}})</li>
+<li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%d. %m. %Y" }}, {{ post.author_name }})</li>
 {% endfor %}
 </ul>
