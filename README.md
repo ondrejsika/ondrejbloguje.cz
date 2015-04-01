@@ -11,8 +11,7 @@ Blog platform using [Jekyll](http://jekyllrb.com)
 ## Blogs based on uBlog
 
 * <http://djangoblog.cz>
-* <http://blog.phphost.cz>
-* <http://blog.neomail.cz>
+* <http://pythonblog.cz>
 
 
 ## Usage
