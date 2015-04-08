@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Example post
+language: EN
 author_name: Ondrej Sika
 author_web: http://ondrejsika.com
 author_email: ondrej@ondrejsika.com
