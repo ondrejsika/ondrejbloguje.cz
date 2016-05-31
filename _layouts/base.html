@@ -4,10 +4,15 @@
         <meta charset="utf-8" />
         <title>{{page.title}}</title>
         <link rel="shortcut icon" type="image/png"  href="/favicon.png" />
-        <link rel="stylesheet" href="/style.css">
+        <script src="/static/main.js"></script>
+        <link rel="stylesheet" href="/static/bootstrap.css">
+        <link rel="stylesheet" href="/static/style.css">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
         {{ content }}
+
+        {% include analytics.html code='XXX' %}
+        {% include cookie_law.html %}
     </body>
 </html>

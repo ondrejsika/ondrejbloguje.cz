@@ -1,0 +1,11 @@
+* {
+    font-size: 1.05em;
+}
+p {
+    text-align: justify;
+}
+
+td, th {
+    padding-right: 20px;
+}
+

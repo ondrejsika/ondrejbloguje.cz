@@ -1,17 +1,10 @@
-# uBlog
+# [Ondrej's Blog](https://ondrejs.cz)
 
-Blog platform using [Jekyll](http://jekyllrb.com)
-
+Personal blog about traveling and my livestyle
 
 * Author: __Ondrej Sika__, <ondrej@ondrejsika.com>, <http://ondrejsika.com>
 * License: __MIT__
 * Homepage: <https://github.com/ondrejsika/jekyll-ublog>
-
-
-## Blogs based on uBlog
-
-* <http://djangoblog.cz>
-* <http://pythonblog.cz>
 
 
 ## Usage
