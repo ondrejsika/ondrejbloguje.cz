@@ -5,9 +5,9 @@ title: Nizozemi 2016 (Campus Party)
 
 Byl to muj prvni vylet do Nizozemi, strucne popisi me poznatky z cesty.
 
-Letej jsem z Brna, protoze to bylo levnejsi. Do brna jsem jel RegioJet busem, drive Student Agency. Cestou do brna jsme ovsem potkaly zacpu na D1, tak se to ridic snazil object po lokalnich cestach, kde skrtnul o podvozek a kdyz jsme se vratili na dalnici, tak nam zacal horet motor. Takze super, spozdeni cca 2 hodiny. Ale vse jsem nakonec stihl.
+Letel jsem z Brna, protoze to bylo levnejsi. Do brna jsem jel RegioJet busem, drive Student Agency. Cestou do brna jsme ovsem potkaly zacpu na D1, tak se to ridic snazil objet po lokalnich cestach, kde skrtnul o podvozek a kdyz jsme se vratili na dalnici, tak nam zacal horet motor. Takze super, spozdeni cca 2 hodiny. Ale vse jsem nakonec stihl.
 
-Letenka do holandska neni nijak draha, da se koupit za od 300 do 1000 CZK skoro vzdy, je to vetsinou do mesta Eindhoven, na jihu zeme. Ja letel z Brna za 1900 CZK, protoze jsem si letenku kupoval den dopredu, mel jsem check-in zavazadlo (470 CZK) a vybiral jsem si misto (100 CZK) - rad sedim u okna :).
+Letenka do Holandska neni nijak draha, da se koupit za od 300 do 1000 CZK skoro vzdy, je to vetsinou do mesta Eindhoven, na jihu zeme. Ja letel z Brna za 1900 CZK, protoze jsem si letenku kupoval den dopredu, mel jsem check-in zavazadlo (470 CZK) a vybiral jsem si misto (100 CZK) - rad sedim u okna :).
 
 <div class="row" style="margin-bottom: 10px">
 <div class="col-md-6">
@@ -22,15 +22,15 @@ Z letiste jsem se dostal do centra autobusem, listek jsem ovsem koupil v automat
 
 Skvele je to ze vsichni, a tim myslim opravdu vsichni, umi perfektne anglicky. Ptal jsem se jedne slecny na cestu a ona mi rekla ze muzu klidne holandsky, jazyk tam neni zadny problem. Jen treba v MHD mluvi jen holandsky, obcas jsem mel problem s rozpoznanim nazvu zastavek (G se cte jako CH, V jako F a zbytek je asi stejny).
 
-Vlakove jizdeny obsahuji cip, proto ke kazde jednotlive jizdence je pripoctena castka 1 EUR za jizdenku. Pokud jedete vice nez 8x vyplati se koupit [OV-chipkaart](https://www.ov-chipkaart.nl/) za 7.50 EUR. Jizdenka z letiste stoji 4.20 EUR, s priplatkem za tistenou jizdenku 5.20 EUR.
+Vlakove jizdenky obsahuji cip, proto ke kazde jednotlive jizdence je pripoctena castka 1 EUR za jizdenku. Pokud jedete vice nez 8x vyplati se koupit [OV-chipkaart](https://www.ov-chipkaart.nl/) za 7.50 EUR. Jizdenka z letiste stoji 4.20 EUR, s priplatkem za tistenou jizdenku 5.20 EUR.
 
 Eindehoven jsem moc nepoznal, prosel jsem si centrum, neni tam moc turistu. Mel jsem tam jidlo na hlavnim namesti v restauraci [Queen](http://www.queeneindhoven.nl/), moc pekne misto. Pivo stoji od 2 do 4 EUR.
 
-Cilem meho vyletu byla [Campus Party](https://nl.campus-party.org) v Utrechtu, je to neco mezi technickou konferenci a party. CP se konala v Utrechtu. Z Eindehovenu do Utrechtu a pak dale do Amsterdamu jezdi vlak, prez den cca kazdych 10 minut. Obecne vlaky maji moc dobre vyresene, jezdi spolehlive, v kazdem je wifi a vsechny informace najdete na [ns.nl](http://ns.nl). Maji ji mobilni aplikaci pro iPhone, pro android nevim, ale nejspis bude take.
+Cilem meho vyletu byla [Campus Party](https://nl.campus-party.org) v Utrechtu, je to neco mezi technickou konferenci a party. CP se konala v Utrechtu. Z Eindehovenu do Utrechtu a pak dale do Amsterdamu jezdi vlak, pres den cca kazdych 10 minut. Obecne vlaky maji moc dobre vyresene, jezdi spolehlive, v kazdem je wifi a vsechny informace najdete na [ns.nl](http://ns.nl). Maji ji mobilni aplikaci pro iPhone, pro android nevim, ale nejspis bude take.
 
-Cena z Eindhovenu do Utrechtu byla cca 15 EUR a trvala skoro hodinu. Je to priblizne ceste pulkou Holandska, z jihu do stredu.
+Cena z Eindhovenu do Utrechtu byla cca 15 EUR a trvala skoro hodinu. Je to priblizne cesta pulkou Holandska, z jihu do stredu.
 
-Campus Party bylo zajimave, hodne lidi, hodne recniku, ale mensi nez v Berline v 2012. Pocital jsem ze dostaneme zasne nejakej toaletni balicek jako v Berline, nevzal jsem si sampon, ale nic. Tak jsem si nejakej koupil v Albertu, omylem vsak nejakej konopnej. Zase jsme spali ve stanech, misto modrych jako v Berline jsme meli bile. Zase jsem si ho odvezl domu.
+Campus Party bylo zajimave, hodne lidi, hodne recniku, ale mensi nez v Berline v 2012. Pocital jsem ze dostaneme zase nejakej toaletni balicek jako v Berline, nevzal jsem si sampon, ale nic. Tak jsem si nejakej koupil v Albertu, omylem vsak nejakej konopnej. Zase jsme spali ve stanech, misto modrych jako v Berline jsme meli bile. Zase jsem si ho odvezl domu.
 
 Utrech je moc krasne mesto, velmi se mi tam libilo, neni male ani velke, a take tam neni tolik turistu. Ve meste jsem nepouzival verejnou dopravu, vsude po centru se da dojit pesky. V Utrechtu jsem take poprve uvidel kanaly. Neni jich tam mnoho, ale jsou. Seznamil jsem se tam s par mistnimi a doporucili mi [Kafe Belgie](http://www.kafebelgie.nl/) a podivat se do [Domu](http://domtoren.nl).
 
@@ -41,7 +41,7 @@ Utrech je moc krasne mesto, velmi se mi tam libilo, neni male ani velke, a take 
 </div>
 </div>
 
-Pri pobytu v Utrechtu jsem narazin na Bitcoin konferenci v Arnhemu. Arnhem je Bitcoin city se vsim co k tomu patri, je tam prez 100 mist kde se da platit Bitcoinem. Do Arnhemu jsem se dostal vlakem, na trati byla vyluka, ovsem vsechno bylo dobre zorganizovane, byli tam lidi v uniformach kteri ochotne pomahaly a ukazovaly kam kdo ma jit. Jen jsem mel problem s nazvy mist kde mam prestoupit. Nakonec jsem se tam v poradku dostal. V Arnhemu byla konference [Bitcoin In Use](http://www.arnhembitcoinstad.nl/event), po ni jsme sli na jidlo - vyborny specialni "Bitcoin" burger v restauraci [MeeM](http://meemetenendrinken.nl/). Samozrejme placeno Bitcoinem.
+Pri pobytu v Utrechtu jsem narazil na Bitcoin konferenci v Arnhemu. Arnhem je Bitcoin city se vsim co k tomu patri, je tam pres 100 mist kde se da platit Bitcoinem. Do Arnhemu jsem se dostal vlakem, na trati byla vyluka, ovsem vsechno bylo dobre zorganizovane, byli tam lidi v uniformach kteri ochotne pomahaly a ukazovaly kam kdo ma jit. Jen jsem mel problem s nazvy mist kde mam prestoupit. Nakonec jsem se tam v poradku dostal. V Arnhemu byla konference [Bitcoin In Use](http://www.arnhembitcoinstad.nl/event), po ni jsme sli na jidlo - vyborny specialni "Bitcoin" burger v restauraci [MeeM](http://meemetenendrinken.nl/). Samozrejme placeno Bitcoinem.
 
 <div class="row" style="margin-bottom: 10px">
 <div class="col-md-6">
@@ -50,11 +50,11 @@ Pri pobytu v Utrechtu jsem narazin na Bitcoin konferenci v Arnhemu. Arnhem je Bi
 </div>
 </div>
 
-Posledni 2 dny jsem stravil v Amsterdamu. Cesta z Utrechtu vlakem je cca 20 minut a stoji 9 EUR. Amsterdam Centraal (nadrazi) je u prostred mesta, z jedne strany je centrum a z druhe velky kanal, kde jezdi velke lode i lode MHD. Pro ty, kteri chteji v Amsterdamu stravit nejaky cas a poradne jej prozkoumat, doporucuji [AmsterdamPass](https://www.iamsterdam.com/en/i-am/i-amsterdam-city-card), na 24 hodin stoji 55 EUR. Vcene je jizdenka na verejnou dopravu, vstup do vetsiny muzei, boat tour a ruzne slevy.
+Posledni 2 dny jsem stravil v Amsterdamu. Cesta z Utrechtu vlakem je cca 20 minut a stoji 9 EUR. Amsterdam Centraal (nadrazi) je u prostred mesta, z jedne strany je centrum a z druhe velky kanal, kde jezdi velke lode i lode MHD. Pro ty, kteri chteji v Amsterdamu stravit nejaky cas a poradne jej prozkoumat, doporucuji [AmsterdamPass](https://www.iamsterdam.com/en/i-am/i-amsterdam-city-card), na 24 hodin stoji 55 EUR. V cene je jizdenka na verejnou dopravu, vstup do vetsiny muzei, boat tour a ruzne slevy.
 
 Vsude bylo spoustu kanalu, mnohem vice nez v ostatnich mestech, kde jsem byl predtim. Bylo zde ovsem mnoho turistu.
 
-Spal jsem na male lodi, kterou jsem si pronajal perez AirBnB, ktera byla primo v centru, v Red Light District. Tam jsem poprve vydel slavna okna s holkama.
+Spal jsem na male lodi, kterou jsem si pronajal pres AirBnB, ktera byla primo v centru, v Red Light District. Tam jsem poprve videl slavna okna s holkama.
 
 Byl jsem se take podivat kousek za Amsterdam, do Monnickendam. Ten je primo na "otevrenem mori". Ono je to uz jezero, jsou tam 2 prehrady, ktere chrani holandsko proti zaplavam pri bourkach.
 
@@ -67,7 +67,7 @@ Celkove se mi Amsterdam libil, ale pro dlouhodobejsi pobyt bych zvolil spis neja
 </div>
 </div>
 
-Zpet jsem letel ze Schipolu s CSA. Byl to muj prvni let s CSA. Myslel jsem si ze uroven bude nekde mezi SWISS, KLM nebo Lufthansa a lowcosty jako je WizzAir nebo RyanAir. Ovsem jsem byl zklaman, kdyz nam nabizeli na palube kosmetiku a hodinku. Takze nase narodni letecka spolecnost je lowcost take. Jeste to melo 2 hodiny zpozdeni, kvuli pocasi. V letadle se mnou sedel pilot z kypru, ktery zaplatil cca 700 EUR za letenku a rozciloval se ze musi platit za piti. Me letenka stala cca 2700 CZK, z cehoz bylo 270 CZK za velke sedadlo u okna a cca 500 CZK za check-in zavazadlo.
+Zpet jsem letel ze Schipolu s CSA. Byl to muj prvni let s CSA. Myslel jsem si ze uroven bude nekde mezi SWISS, KLM nebo Lufthansa a lowcosty jako je WizzAir nebo RyanAir. Ovsem jsem byl zklaman, kdyz nam nabizeli na palube kosmetiku a hodinky. Takze nase narodni letecka spolecnost je lowcost take. Jeste to melo 2 hodiny zpozdeni, kvuli pocasi. V letadle se mnou sedel pilot z Kypru, ktery zaplatil cca 700 EUR za letenku a rozciloval se, ze musi platit za piti. Me letenka stala cca 2700 CZK, z cehoz bylo 270 CZK za velke sedadlo u okna a cca 500 CZK za check-in zavazadlo.
 
 Poprve jsem mel misto batohu tasku, takovou tu s koleckama a zjistil jsem ze pokud jdu jakoukoliv delsi vzdalenost nez z letiste do hotelu a zpatky, je lepsi mit krosnu. Pro priste, no.
 
