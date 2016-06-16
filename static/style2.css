@@ -1,0 +1,28 @@
+body {
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: url(/static/bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/*.main {*/
+.container {
+    min-height: 100%;
+    display:table;
+}
+
+.main {
+    background: rgba(255, 255, 255, 0.6);
+    display: table-cell;
+    float: none;
+}
+
+.row
+{
+    height: 100%;
+    display: table-row;
+}
