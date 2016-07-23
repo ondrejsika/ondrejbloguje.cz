@@ -7,9 +7,9 @@ Protoze jsme nas tabor posunuli o tyden, prvni tyden jsem mel volny a navstivil 
 
 Jako nejvetsi rozdil je podle me peclivost, s jakou cely tabor organizovali.
 
-V technickych vecech jsem si rikal, ze jak to delame mi je lepsi nebo efektivnejsi, napriklad stavba tee-pee a nebo stozaru. Na druhou stranu jsem videl mnoho skvelejch technickejch vychitavek jako je trouba na peceni.
+V technickych vecech jsem si rikal, ze jak to delame my je lepsi nebo efektivnejsi, napriklad stavba tee-pee a nebo stozaru. Na druhou stranu jsem videl mnoho skvelejch technickejch vychytavek jako je trouba na peceni.
 
-Oproti ryze technickym vecem me hodne zaujala priprava kazdodeni rutiny a CTH (celotaborova hra). Oznamovatel na kterem vysi taborovy rad, jidelnicek a deni plan je neco co jsme my take mely, ale dlouhou dobu uz nemame. Pripomelo mi to jak malo staci k tomu abychom hodne zvedly nas rad tabora. Mit jidlo na cas je proste super.
+Oproti ryze technickym vecem me hodne zaujala priprava kazdodeni rutiny a CTH (celotaborova hra). Oznamovatel na kterem vysi taborovy rad, jidelnicek a deni plan je neco co jsme my take mely, ale dlouhou dobu uz nemame. Pripomelo mi to jak malo staci k tomu abychom hodne zvedli nas rad tabora. Mit jidlo na cas je proste super.
 
 <div class="row" style="margin-bottom: 10px">
 <div class="col-md-6">
