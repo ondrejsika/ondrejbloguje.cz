@@ -9,7 +9,7 @@ Jako nejvetsi rozdil je podle me peclivost, s jakou cely tabor organizovali.
 
 V technickych vecech jsem si rikal, ze jak to delame my je lepsi nebo efektivnejsi, napriklad stavba tee-pee a nebo stozaru. Na druhou stranu jsem videl mnoho skvelejch technickejch vychytavek jako je trouba na peceni.
 
-Oproti ryze technickym vecem me hodne zaujala priprava kazdodeni rutiny a CTH (celotaborova hra). Oznamovatel na kterem vysi taborovy rad, jidelnicek a deni plan je neco co jsme my take mely, ale dlouhou dobu uz nemame. Pripomelo mi to jak malo staci k tomu abychom hodne zvedli nas rad tabora. Mit jidlo na cas je proste super.
+Oproti ryze technickym vecem me hodne zaujala priprava kazdodeni rutiny a CTH (celotaborova hra). Oznamovatel, na kterem vysi taborovy rad, jidelnicek a deni plan, je neco co jsme mi take meli, ale dlouhou dobu uz nemame. Pripomelo mi to jak malo staci k tomu abychom hodne zvedli nas rad tabora. Mit jidlo na cas je proste super.
 
 <div class="row" style="margin-bottom: 10px">
 <div class="col-md-6">
@@ -18,7 +18,7 @@ Oproti ryze technickym vecem me hodne zaujala priprava kazdodeni rutiny a CTH (c
 </div>
 </div>
 
-Skvela byla take priprava CTH kde mely pripravene indexy, mely pripraveny pro kazdeho Zluty zivot (obdoba Modreho zivota), proste mi prislo ze v tech office vecech maji poradek a super pripravu.
+Skvela byla take priprava CTH kde meli pripravene indexy, mely pripraveny pro kazdeho Zluty zivot (obdoba Modreho zivota), proste mi prislo ze v tech office vecech maji poradek a super pripravu.
 
 Skoda jen ze jsem nebyl u programu, to by take bylo inspirativni.
 
