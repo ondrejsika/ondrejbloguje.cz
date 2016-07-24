@@ -23,3 +23,6 @@ Skvela byla take priprava CTH kde meli pripravene indexy, mely pripraveny pro ka
 Skoda jen ze jsem nebyl u programu, to by take bylo inspirativni.
 
 Tabor byl super, moc jsem si ho uzil. Odjizdel jsem plny inspirace a motivace.
+
+Par fotografii na flickeru: <https://www.flickr.com/photos/ondrejsika/albums/72157668551958984>
+
