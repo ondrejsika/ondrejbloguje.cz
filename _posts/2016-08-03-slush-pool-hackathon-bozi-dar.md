@@ -29,7 +29,7 @@ Na rozdil od minuleho hackathonu, kde jsme s kolegama nevysli ani na jednu proch
 </div>
 </div>
 
-Rozhodl jsem se, ze kdyz jsem v tak krasne casti Ceska, ze je skoda to stravit cele u pocitace a proto jsem se rozhodl si vylet o par dni prodlouzit. Na AirBnB jsem si nasel [Yetty Hostel](http://klinovec.info) ([Airbnb](https://www.airbnb.com/rooms/5304394)), ktery je v blizkem mestecku Vejprty a poznal se tak s jeho super provozovatelkou Stepankou Kadlecovou, ktera se mnou stravila nekolik dni prochazkami po krasnem okoli Boziho daru.
+Rozhodl jsem se, ze kdyz jsem v tak krasne casti Ceska, ze je skoda to stravit cele u pocitace a proto jsem se rozhodl si vylet o par dni prodlouzit. Na AirBnB jsem si nasel [Yetti Hostel](http://klinovec.info) ([Airbnb](https://www.airbnb.com/rooms/5304394)), ktery je v blizkem mestecku Vejprty a poznal se tak s jeho super provozovatelkou Stepankou Kadlecovou, ktera se mnou stravila nekolik dni prochazkami po krasnem okoli Boziho daru.
 
 Stepanka je super akcni slecna, ja osobne bych si nedokazal predstavit zivot v Krusnych horach - tak daleko od civilizace a ona je tu spokojena. Ja jsem nad tim premyslel a v horach je opravdu kradne, hodne jsem si tam odpocinul, ale nevim, zda bych tam chctel zit.
 
@@ -42,7 +42,7 @@ Stepanka je super akcni slecna, ja osobne bych si nedokazal predstavit zivot v K
 </div>
 </div>
 
-Stepanka mam krome skveleho hostely Yetty Backpacker jeste lyzarskou skolu [Zimni Skola](http://www.zimniskola.cz/), [Milou Kavarnu](https://www.facebook.com/milakavarna), ... a je clenkou hoske sluzby. Jak rikam, akcni.
+Stepanka mam krome skveleho hostely Yetti Backpacker jeste lyzarskou skolu [Zimni Skola](http://www.zimniskola.cz/), [Milou Kavarnu](https://www.facebook.com/milakavarna), ... Jak rikam, akcni.
 
 A abych to nebyl ja, ukazal jsem Stepance Bitcoin, a byla z nej tak nadsena, ze ho zacla akceptovat ve svych aktivitach. Mam z toho radost, jsou to prvni Bitcoin friendly mista v Krusnych horach.
 
