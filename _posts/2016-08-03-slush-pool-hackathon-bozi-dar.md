@@ -18,7 +18,7 @@ Zmena prostredi byla super, na rozdil od pochmurne zimy se nam v krasnem pocasi 
 
 Ja osobne jsem mel tema, ktere nebylo uplne vhodne na hackathon. Zaviselo totiz na treti strane a komunikace s ni byla spatna. Nakonec to odlozily na neurcito. Blby tema. Na predchozim hackathonu me nikdo nevyrusoval ani nebrzdil, udelal jsem mnohem vice prace.
 
-Na rozdil od minuleho hackathonu, kde jsme s kolegama nevysli ani na jednu prochazku, rozhodli jsme se ject se podivat na opustenou tovarnu na spracovani cinu. Vybrali jsme si na to upne nejhorsi pocasi, nejvetsi slejvak a pochmurna obloha, ale zase to melo neco do sebe s tim konkretnim mistem. Udeli jsme par "umeleckych" fotek z tovarny. Je videt, ze jsme mineri.
+Na rozdil od minuleho hackathonu, kde jsme s kolegama nevysli ani na jednu prochazku, rozhodli jsme se ted podivat na opustenou tovarnu na spracovani cinu. Vybrali jsme si na to upne nejhorsi pocasi, nejvetsi slejvak a pochmurna obloha, ale zase to melo neco do sebe s tim konkretnim mistem. Udeli jsme par "umeleckych" fotek z tovarny. Je videt, ze jsme mineri.
 
 <div class="row" style="margin-bottom: 10px">
 <div class="col-sm-6">
@@ -31,7 +31,7 @@ Na rozdil od minuleho hackathonu, kde jsme s kolegama nevysli ani na jednu proch
 
 Rozhodl jsem se, ze kdyz jsem v tak krasne casti Ceska, ze je skoda to stravit cele u pocitace a proto jsem se rozhodl si vylet o par dni prodlouzit. Na AirBnB jsem si nasel [Yetti Hostel](http://klinovec.info) ([Airbnb](https://www.airbnb.com/rooms/5304394)), ktery je v blizkem mestecku Vejprty a poznal se tak s jeho super provozovatelkou Stepankou Kadlecovou, ktera se mnou stravila nekolik dni prochazkami po krasnem okoli Boziho daru.
 
-Stepanka je super akcni slecna, ja osobne bych si nedokazal predstavit zivot v Krusnych horach - tak daleko od civilizace a ona je tu spokojena. Ja jsem nad tim premyslel a v horach je opravdu kradne, hodne jsem si tam odpocinul, ale nevim, zda bych tam chctel zit.
+Stepanka je super akcni slecna, ja osobne bych si nedokazal predstavit zivot v Krusnych horach - tak daleko od civilizace a ona je tu spokojena. Ja jsem nad tim premyslel a v horach je opravdu krasne, hodne jsem si tam odpocinul, ale nevim, zda bych tam chtel zit.
 
 <div class="row" style="margin-bottom: 10px">
 <div class="col-sm-6">
@@ -42,9 +42,8 @@ Stepanka je super akcni slecna, ja osobne bych si nedokazal predstavit zivot v K
 </div>
 </div>
 
-Stepanka mam krome skveleho hostely Yetti Backpacker jeste lyzarskou skolu [Zimni Skola](http://www.zimniskola.cz/), [Milou Kavarnu](https://www.facebook.com/milakavarna), ... Jak rikam, akcni.
+Stepanka ma krome skveleho hostelu Yetti Backpacker jeste lyzarskou skolu [Zimni Skola](http://www.zimniskola.cz/), [Milou Kavarnu](https://www.facebook.com/milakavarna), ... Jak rikam, akcni.
 
-A abych to nebyl ja, ukazal jsem Stepance Bitcoin, a byla z nej tak nadsena, ze ho zacla akceptovat ve svych aktivitach. Mam z toho radost, jsou to prvni Bitcoin friendly mista v Krusnych horach.
+A abych to nebyl ja, ukazal jsem Stepance Bitcoin, a byla z nej tak nadsena, ze ho zacala akceptovat ve svych aktivitach. Mam z toho radost, jsou to prvni Bitcoin friendly mista v Krusnych horach.
 
 Par fotografii z hackathonu i z prochazek na [flickeru](https://www.flickr.com/photos/ondrejsika/albums/72157668551958984)
-
