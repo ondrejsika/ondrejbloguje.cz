@@ -54,9 +54,11 @@ Posledni 2 dny jsem stravil v Amsterdamu. Cesta z Utrechtu vlakem je cca 20 minu
 
 Vsude bylo spoustu kanalu, mnohem vice nez v ostatnich mestech, kde jsem byl predtim. Bylo zde ovsem mnoho turistu.
 
-Spal jsem na male lodi, kterou jsem si pronajal pres AirBnB, ktera byla primo v centru, v Red Light District. Tam jsem poprve videl slavna okna s holkama.
+Spal jsem na male lodi, kterou jsem si pronajal pres AirBnB, ktera byla primo v centru. Byla to stara "jachta" kde nebylo nic nez trosku mista vzdadu a pak jedna kajuta se zacernenymi okny a posteli tak pro 2. Zadny zachod, kuchynka jen ta jedna kajuta. Ale na jednu (posledni) noc to bohate stacilo. Cena byla 40 EUR za noc, coz je sice vic, nez hostel (cca 20 EUR), ale moznost poprve spat na lodi me hodne zlakala. Na lodi byl papir s informacemi, kde bylo napsano: "Lod si nepronajimas, jsi nas kamarad. Kdyz prijde policie, tak rekni ze jsi nas kamarad a dej jim na nas cislo, ...". Nastesti zadna policie neprisla a ja se hezky vyspal. Myslel jsem ze to bude aspon trosku houpat, ale vubec nic. Skoda. Lod byla v Red Light District. Tam jsem poprve videl slavna okna s holkama.
 
-Byl jsem se take podivat kousek za Amsterdam, do Monnickendam. Ten je primo na "otevrenem mori". Ono je to uz jezero, jsou tam 2 prehrady, ktere chrani holandsko proti zaplavam pri bourkach.
+Byl jsem se take podivat kousek za Amsterdam, do Monnickendam. Na to jak je to makinke mesto je tam obrovsky pristav. Muze za to nejspise to ze Monnickendam je primo na "otevrenem mori". Ono je to uz jezero, jsou tam 2 prehrady, ktere chrani holandsko proti zaplavam pri bourkach, ale stejne je to vyhledavany cil milovniku lodi.
+
+V sousedni vesnici Broek in Waterland (kousek od Monnickendamu) jsem si chtel dat nejake tipicke holandske jidlo. Zasli jsme do [Pannenkoekenhuis De Witte Swaen](http://www.dewitteswaen.nl/). Tipicka holandska palacinka je treba se syrem a slaninou. A je to moc dobry. Na konec k uctu destanete mentolove bonbony, mistni tradice.
 
 Celkove se mi Amsterdam libil, ale pro dlouhodobejsi pobyt bych zvolil spis nejake mensi mesto - Utrecht byl moc prijemny, ale zase jsem byl jen v centru, tak nemohu porovnavat klid okoli.
 

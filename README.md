@@ -1,10 +1,10 @@
-# [Ondrej's Blog](https://ondrejs.cz)
+# [Ondrej Bloguje](https://ondrejbloguje.cz)
 
 Personal blog about traveling and my livestyle
 
 * Author: __Ondrej Sika__, <ondrej@ondrejsika.com>, <http://ondrejsika.com>
 * License: __MIT__
-* Homepage: <https://github.com/ondrejsika/jekyll-ublog>
+* Homepage: <https://github.com/ondrejsika/personal-blog>
 
 
 ## Usage
