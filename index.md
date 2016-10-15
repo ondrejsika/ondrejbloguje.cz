@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ondrej bloguje
+title: Ondrej Bloguje
 ---
 
 Chci se podelit o sve zazitky a zkusenosti, hlavne z cest. Vlastne o vsem, co delam ve svem volnem case. Vysledkem je tento blog. Doufam, ze se bude cist hezky a nektere veci se Vam budou hodit.
