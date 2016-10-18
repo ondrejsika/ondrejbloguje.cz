@@ -3,7 +3,12 @@ layout: post
 title: Jachta Chporvatsko
 ---
 
-Nikdy jsem na jachtenebyl, jak jsem se k tomu dostal? Jednou mi kolega pise SMS: "Jdes zitra na trenink a nechces ject s nami za 14 dni na jachtu?". Tak rikam ano a ano. Tyden pred odjezdem jsem byl trochu neklidny, nevedel jsem nic podrobneho, ani datum odjezdu. Moc jsem ani nevedel, co s sebou. Par dni pred odjezdem jsem se dozvedel vsechny podrobnosti vcetne toho co je dobre si vzit s sebou. Tady je muj checklist, ktery jsem si postavil konkretne pro toto jachtovani. [link](https://ondrejsika.com/others/checklists/jachta.html)
+Nikdy jsem na jachte nebyl, jak jsem se k tomu dostal? Jednou mi kolega pise SMS: "Jdes zitra na trenink a nechces ject s nami za 14 dni na jachtu?". Tak rikam ano a ano. Tyden pred odjezdem jsem byl trochu neklidny, nevedel jsem nic podrobneho, ani datum odjezdu. Moc jsem ani nevedel, co s sebou. Par dni pred odjezdem jsem se dozvedel vsechny podrobnosti vcetne toho co je dobre si vzit s sebou. Tady je muj checklist, ktery jsem si postavil konkretne pro toto jachtovani [link](https://ondrejsika.com/others/checklists/jachta.html).
+
+
+
+
+Rozhodl jsem si udelat kapitansky kurz v Chorvatsku (mozna si udelam mezinarodni v Cechach), a jako studijni literatura mi byla doporucena knizka __Roman Verba: Stante se kapitanem__, da se kopuit [zde](http://shop.t-yacht.cz/en/stante-se-kapitanem).
 
 V patek vecer jsme se sesli u Honzy doma a jeli nakoupit jidlo do Makra, nabrali kapitana a vyrazili jsme. Do Chorvatska jsme po noci stravene v aute prijeli v 11:00. Lod jsme ovsem dostali az v 19:00. Ovsem byla ve stavu ze jsme nemohli odplout, chybelo ji zadni pozicni svetlo, voda malo tekla a dost veci bylo ponicene nebo opravene velmi zajimavym zpusobem. Misto toho aby chorvati pracovali na opravach, tak sli spat a dodelali to az v nedeli rano.
 
@@ -27,4 +32,5 @@ Ve ctvrtek rano jsem se ucil parkovat a po 2 hodinach mi to uz docela slo. Po ob
 
 V patek jsme pak uz jeli zpet do Kremiku s jedou koupaci prestavkou. Pak jsme natankovali a predali lod a v 7 uz jsme jeli autem domu. V sobotu jsme prijeli v 8 rano a byli jsme pripraveni v 10 na [Hacker Kongress](https://hcpp.cz).
 
+Vsechny fotografie jsou zde:<br><https://www.flickr.com/photos/ondrejsika/albums/72157674801077966>
 
