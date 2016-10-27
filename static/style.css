@@ -13,6 +13,8 @@ td, th {
 .content {
     background: rgba(255, 255, 255, 0.8);
     min-height: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .content-wrap {
