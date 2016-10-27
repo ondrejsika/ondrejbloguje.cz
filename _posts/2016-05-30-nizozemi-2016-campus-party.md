@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nizozemi 2016 (Campus Party)
+image: /static/content/nizozemi16.jpg
 ---
 
 Byl to muj prvni vylet do Nizozemi, strucne popisi me poznatky z cesty.

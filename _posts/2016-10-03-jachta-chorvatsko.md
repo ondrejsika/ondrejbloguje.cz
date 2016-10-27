@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jachta Chporvatsko
+image: /static/content/jachta.jpg
 ---
 
 Nikdy jsem na jachte nebyl, jak jsem se k tomu dostal? Jednou mi kolega pise SMS: "Jdes zitra na trenink a nechces ject s nami za 14 dni na jachtu?". Tak rikam ano a ano. Tyden pred odjezdem jsem byl trochu neklidny, nevedel jsem nic podrobneho, ani datum odjezdu. Moc jsem ani nevedel, co s sebou. Par dni pred odjezdem jsem se dozvedel vsechny podrobnosti vcetne toho co je dobre si vzit s sebou. Tady je muj checklist, ktery jsem si postavil konkretne pro toto jachtovani [link](https://ondrejsika.com/others/checklists/jachta.html).

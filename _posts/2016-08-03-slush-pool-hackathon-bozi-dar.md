@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Slush Pool Hackarhon na Bozim Daru
+image: /static/content/pool_hackathon_leto_2016.jpg
 ---
 
 Po uspesnem hackathonu minulou zimu v Krkonosich, jsme se rozhodli zopakovat akci a nasli jsme chatu v Krusnych horach v Bozim Daru. Zase jsme vzali rodiny a jeli pracovat mimo Prahu.

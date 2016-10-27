@@ -1,6 +1,7 @@
 ---
 layout: post
 title: LPM oblastnaky a narodaky Chvojkovsky mlyn
+image: /static/content/lpm16.jpg
 ---
 
 ### LPM oblastnaky

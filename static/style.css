@@ -10,3 +10,17 @@ td, th {
     padding-right: 20px;
 }
 
+.content {
+    background: rgba(255, 255, 255, 0.8);
+    min-height: 100%;
+}
+
+.content-wrap {
+    bottom: 0;
+    top: 0;
+    position: absolute;
+}
+
+.row {
+    margin-right: 0;
+}

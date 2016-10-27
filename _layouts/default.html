@@ -1,9 +1,9 @@
 ---
 layout: base
 ---
-<div class="container">
-<div class="row">
-<div class="col-md-8 col-md-offset-2">
+<div class="container-fluid">
+<div class="row content-wrap">
+<div class="col-md-5 content">
 
 <a href="/"><h1>Ondrej Bloguje</h1></a>
 
@@ -14,4 +14,13 @@ layout: base
 </div>
 </div>
 </div>
+
+{% if page.image %}
+<style>
+body {
+    background: url({{ page.image}}) fixed center;
+    background-size: cover;
+}
+</style>
+{% endif %}
 
