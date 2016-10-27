@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tabor Zlute Strelky
+image: /static/content/zlutastrelka16.jpg
 ---
 
 Protoze jsme nas tabor posunuli o tyden, prvni tyden jsem mel volny a navstivil jsem tabor [Zlute Strelky](http://www.zlutastrelka.cz/). Pomahal jsem jim par dni na stavbe a trochu jsem poznal chod jejich tabora.

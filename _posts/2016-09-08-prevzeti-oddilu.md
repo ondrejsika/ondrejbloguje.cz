@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Prevzeti oddilu
+image: /static/content/prevzeti_oddilu.jpg
 ---
 
 Po 4 letech co Vojta vedl oddil bylo vice nez nutne jej predat. Nikdy jsem nebyl na zadnem skautskem kurzu a nemam zadne skautske formalni vzdelani (snad s vyjimkou propadleho zdravotaku). Podle teto metriky mam asi nejhorsi predispozice k vedeni oddilu z nasi oddilove rady. Na druhou stranu jsem v oddile nejdele a asi ho mam nejvice zakoreneny v srdci.

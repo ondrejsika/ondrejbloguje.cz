@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Prvni vikend cekatelskeho kurzu
+image: /static/content/fortis16.jpg
 ---
 
 Nikdy jsem nemyslel, ze budu potrebovat formalni skautske vzdelani. Vzdy jsem vedel, ze chci v oddile zustat, ale nikdy jsem neme zajem o zadnou oficialni funkci. Take jsem se dost bal ject na kurz, ze tam nezapadnu do kolektivu. Okolnosti me vsak dostaly do funkce vudce oddilu a mam rok na to, abych si vsechno vzdelani dodelal. Tedy cekateske a vudcovske zkousky.
