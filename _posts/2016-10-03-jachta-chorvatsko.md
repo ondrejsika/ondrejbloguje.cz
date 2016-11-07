@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jachta Chporvatsko
+title: Jachta Chorvatsko
 image: /static/content/jachta.jpg
 ---
 
