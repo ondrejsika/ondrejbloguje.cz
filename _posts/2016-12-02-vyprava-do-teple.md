@@ -38,3 +38,5 @@ Ještě jednou chci poděkovat Kátě, která mi moc pomohla a ukázala mi, že 
 
 Akorát cestu z Plzně do Prahy jsme si trošku prodloužili, byli jsme dost vyřízení a nastoupili omylem do vlaku do Mnichova. No, stane se, no. Tak jsme se v Domažlicích otočili a dojeli domů o 2 hodiny později.
 
+[Fotogalerie zde](https://www.flickr.com/photos/ondrejsika/albums/72157677246521895)
+
