@@ -18,7 +18,7 @@ layout: base
 {% if page.image %}
 <style>
 body {
-    background: url({{ page.image}}) fixed center;
+    background: url({{ page.image}}) fixed {% if page.image_position %}{{ page.image_position }}{% else %}center{% endif %};
     background-size: cover;
 }
 </style>

@@ -2,6 +2,7 @@
 layout: post
 title: Výprava do Teplé
 image: /static/content/tepla16.jpg
+image_position: top
 ---
 
 Původně jsem neměl vůbec v plánu na výpravu jet. V sobotu jsem měl jít na Okresní sněm Junáka a v neděli jsem chtěl pracovat. Nastala ovšem situace, že nikdo z ostatních vedoucích jet nemohl, tak to zbylo na mě. Nebyl jsem z toho úplně nadšený, ale řekl jsem, že pojedu. Vím, že by bylo výpravu jednodušší zrušit, jedou jenom 4 děti, ale pokud bychom akce rušili a nesnažili se je dělat častěji a lepší, mělo by to na oddíl dost špatný vliv. Proto jsem se rozhodl, že pojedu. Navíc samotnému mi udělalo dobře, že jsem byl pár dní bez počítače.
