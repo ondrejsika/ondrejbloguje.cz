@@ -21,6 +21,7 @@ td, th {
     bottom: 0;
     top: 0;
     position: absolute;
+    min-width: 100%;
 }
 
 .row {
